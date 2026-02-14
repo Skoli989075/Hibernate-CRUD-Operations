@@ -1,2 +1,21 @@
-# Hibernate-CRUD-Operations
-This is a simple CRUD (Create, Read, Update, Delete) application using MySQL database.  The project demonstrates basic database operations such as inserting, selecting, updating, and deleting records.
+# Hibernate CRUD Operations (Java)
+
+This project demonstrates basic CRUD operations using Hibernate ORM framework.
+
+## Technologies Used
+- Java
+- Hibernate
+- MySQL
+- Maven 
+
+## CRUD Operations Implemented
+- Insert Data
+- Select Data
+- Update Data
+- Delete Data
+
+## Database
+MySQL Database used for storing User records.
+
+## Author
+Sachin Koli
